@@ -8,33 +8,16 @@
  <body>
 
   <h1>
-    Hello, world
-    <script src="script.js"></script>
+    Shopping List
   </h1>
+  
+  <ol>
+    <li> apple </li>
+    <li> chips </li>
+    <li> pasta </li>
+  </ol>
+  
 
- 
-    Hello <b>world</b>.
-    <br> <b>How</b> you doing? 
-    <br>How <b>is</b> life? :)
-
-
-<br>
-<br>
-  <p style="color:red;">
-
-    Take care world.
-
-  </p>
-
-<br>
-<br>
-
-  <h2 style="text-align:center; color:green;" >
-
-     . .
-<br> ⌣
-
-  </h2>
 
 
 
