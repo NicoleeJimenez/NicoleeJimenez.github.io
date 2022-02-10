@@ -1,34 +1,35 @@
 h1{
   font-size: 60px;
-  font-color: #ff7f50;
+  font-color: #FF7F52;
   font-align: center;
   font-family: cursive;
 }
 h2{
   font-size: 40px;
-  font-color: #ff7f50;
+  font-color: #FF7F52;
   font-align: center;
   font-family: cursive;
 }h3{
   font-size: 40px;
-  font-color: #ff7f50;
+  font-color: #FF7F52;
   font-align: center;
   font-family: cursive;
 }h4{
   font-size: 40px;
-  font-color: #ff7f50;
+  font-color: #FF7F52;
   font-align: center;
   font-family: cursive;
 }
 body{
-  background-color: #98ff98 ;
+  background-color: #0F6171 ;
   font-align: center;
   font-family: serif;
   font-size: 30px;
 }
 
 ul{
-  padding: right;
+  float: right;
+  padding: 10px;
   margin: 20px;
   border: outset 5px #FFDB43; 
 }
