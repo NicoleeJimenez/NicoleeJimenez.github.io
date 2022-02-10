@@ -1,35 +1,33 @@
 h1{
   font-size: 60px;
-  font-color: #FF7F52;
-  font-align: center;
+  color: #FF7F52;
+  text-align: center;
   font-family: cursive;
 }
 h2{
   font-size: 40px;
-  font-color: #FF7F52;
-  font-align: center;
+  color: #FF7F52;
+  text-align: center;
   font-family: cursive;
 }h3{
   font-size: 40px;
-  font-color: #FF7F52;
-  font-align: center;
+  color: #FF7F52;
+  text-align: center;
   font-family: cursive;
 }h4{
   font-size: 40px;
-  font-color: #FF7F52;
-  font-align: center;
+  color: #FF7F52;
+  text-align: center;
   font-family: cursive;
 }
 body{
   background-color: #0F6171 ;
-  font-align: center;
+  text-align: center;
   font-family: serif;
   font-size: 30px;
 }
 
 ul{
   float: right;
-  padding: 10px;
-  margin: 20px;
   border: outset 5px #FFDB43; 
 }
