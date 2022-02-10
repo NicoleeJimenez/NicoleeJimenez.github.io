@@ -23,13 +23,22 @@ h2{
 }
 body{
   background-color: #0F6171 ;
+  color: #FFAA1D;
   text-align: center;
-  font-family: serif;
-  font-size: 15px;
+  font-size: 20px;
+}
+p1{
+    font-family: "Times New Roman", serif;
+}
+p2{
+  font-family:  "Helvetica", sans-serif;
+}
+p3{
+    font-family: "Courier New", monospace;
 }
 
 ul{
   float: right;
-  padding: 15px;
+  padding: 30px;
   border: outset 5px #FFDB43; 
 }
