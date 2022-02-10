@@ -3,6 +3,8 @@ h1{
   text-align: center;
   font-family: cursive;
   color: #FF7F52;
+  text-decoration: underline;
+
 
 }
 h2{
@@ -44,15 +46,26 @@ ul{
 }
 
 .highlight-this{
-  color: #EC634A
+  color: #EC634A;
+  text-decoration: underline;
+
 }
 
 .highlight-this2{
-  color: #7AC9ED
+  color: #7AC9ED;
+  background-color: #FFF01F;
+
 }
 .highlight-this3{
-  color: #FEF75B
+  color: #FEF75B;
+  font-style: italic;
 }
+
+.highlight-this4{
+  color: #FFF01F;
+  font-style: oblique;
+}
+
 
 
 
