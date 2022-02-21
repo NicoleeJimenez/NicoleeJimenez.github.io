@@ -2,14 +2,17 @@ h1{
   margin-top: 30px;
   text-align: center;
   font-size: 30px;
-  color: #fb8500; 
+  color: #fb8500;
+  margin-top: 30px;
   
 }
 
 
 body{
+  
   background-color: #8ecae6;
   text-align: center;
+  margin-top: 50px;
  
 }
 
