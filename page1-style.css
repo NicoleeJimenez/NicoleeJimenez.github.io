@@ -14,8 +14,17 @@ body{
   text-align: center; 
 }
 
+
 a{
-    margin-top: 50px;
-    float: center;
+  text-size: 15px;
+  border-style: outset;
+  color: #023047;
 }
 
+ a:hover {
+  background-color: #ffb703  ;
+}
+
+a:link {
+  text-decoration: none;
+}
