@@ -11,8 +11,11 @@ h1{
 body{
   
   background-color: #8ecae6;
-  text-align: center;
-  margin-top: 50px;
- 
+  text-align: center; 
+}
+
+a{
+    margin-top: 50px;
+    float: center;
 }
 
