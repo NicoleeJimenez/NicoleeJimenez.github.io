@@ -10,6 +10,7 @@ h1{
 body{
   
   background-color: #8ecae6;
+  text-align:center;
 }
 
 
@@ -17,8 +18,8 @@ a{
   text-size: 15px;
   border-style: outset;
   color: #023047;
-  padding-bottom: 50px;
   text-align: center; 
+  margin: center;
 }
 
  a:hover {
@@ -33,8 +34,4 @@ a:visited {
   text-decoration: none;
 }
 
-img{
-  float: center;
-  
-}
 
