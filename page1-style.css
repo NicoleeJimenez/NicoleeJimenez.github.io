@@ -3,7 +3,6 @@ h1{
   text-align: center;
   font-size: 30px;
   color: #fb8500;
-  float-bottom: 30px;
 }
 
 
@@ -15,7 +14,7 @@ body{
 
 
 a{
-  text-size: 15px;
+  font-size: 15px;
   border-style: outset;
   color: #023047;
 }
